@@ -11,5 +11,5 @@ import { BarCharttComponent } from './charts/bar-chart.component';
   standalone: true
 })
 export class AppComponent {
-  title = 'test-web-components';
+  title = 'Web-components';
 }
